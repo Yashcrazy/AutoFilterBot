@@ -8,14 +8,15 @@ class script(object):
 <b>✦ ɪᴛs ᴇᴀsʏ ᴛᴏ ᴜsᴇ ᴍᴇ. ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ</b>"""
 
     MY_ABOUT_TXT = """<b>✯ ᴍᴀɪɴ ʙᴏᴛ:  <a href=https://t.me/BotTest_MsBot>ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ</a></b>
-<b>✯ Cʀᴇᴀᴛᴏʀ:  <a href=http://t.me/Mahi_458>ROYAL BOTS</a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ:  <a href=http://t.me/yashu1515>ROYAL BOTS</a></b>
 <b>✯ ᴍᴏᴠɪᴇꜱ: <a href=https://t.me/RCrequestgroup>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
 <b>✯ ᴜᴩᴅᴀᴛᴇꜱ:  <a href=https://t.me/RoyalbotsSupport>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     MY_OWNER_TXT = """<b>★ Name: ROYAL BOTS</b>
-<b>★ Username: @MaHi_458</b>
-<b>★ ID:</b> <code>5450011131</code>
-<b>★ Country: India</b>"""
+<b>★ Username: @yashu1515</b>
+<b>★ ID:</b> <code>5356695781</code>
+<b>★ Country: India</b>
+<b>★ State : Karnata</b>""" 
 
     STATUS_TXT = """🗂 Total Files: <code>{}</code>
 👤 Total Users: <code>{}</code>
