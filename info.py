@@ -18,7 +18,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', '')
 
 # Bot pics and stickers
 STICKERS = (environ.get('STICKERS', 'CAACAgUAAxkBAAEJLKBkeD9LiOezjPCmERpufnZ0dWrl2QAC-QwAAjJ64Fdi6S2huvv62y8E CAACAgUAAxkBAAEJLKJkeD9b8zRvOiHBkveN65cE8Xo3bwACBQcAAmfH4VcK_O85WZLeuC8E')).split()
-PICS = (environ.get('PICS', 'https://graph.org/file/bea5a753b08ee6637ea19.jpg https://graph.org/file/79689d029702b89433802.jpg https://graph.org/file/e7d6b923dc3b5ac230f2d.jpg https://graph.org/file/d3f8356f68334d3d6469e.jpg https://graph.org/file/5929678d9b3ead121e0fe.jpg https://graph.org/file/d5bbd91bc31335cc5d767.jpg https://graph.org/file/3e9632d6c445ca43fce8f.jpg https://graph.org/file/1d7684b0aa371bb4cba52.jpg https://graph.org/file/953fb219ee7bcd047077e.jpg https://graph.org/file/ab51f955b0306ab3cee42.jpg https://graph.org/file/1a157b0d6dd42ea12c9a6.jpg https://graph.org/file/8dfdc6194a98c61e23633.jpg https://graph.org/file/8b4bac129ae77e36e3482.jpg https://graph.org/file/dbd94d6466ab540798dbd.jpg https://graph.org/file/2b4d482bebb59ba78cfd4.jpg https://graph.org/file/edfea7a6977abeeba2404.jpg')).split()
+PICS = (environ.get('PICS', 'https://graph.org/file/bb1dffb05ccb061bcf28d.jpg https://graph.org/file/b81e00d8312e18a1eb1c8.jpg')).split()
 
 # Bot Admins
 ADMINS = [int(admins) if id_pattern.search(admins) else admins for admins in environ.get('ADMINS', '').split()]
